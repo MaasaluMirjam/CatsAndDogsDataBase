@@ -1,0 +1,13 @@
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.AssemblyReference.cache
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.Form1.resources
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.Properties.Resources.resources
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.GenerateResource.cache
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\bin\Debug\Pets.mdf
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\bin\Debug\Pets_log.ldf
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.exe.config
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.exe
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\bin\Debug\CatsAndDogs.pdb
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.exe
+C:\Users\Kasutaja\source\repos\LogITpe21\CatsAndDogs\CatsAndDogs\obj\Debug\CatsAndDogs.pdb
