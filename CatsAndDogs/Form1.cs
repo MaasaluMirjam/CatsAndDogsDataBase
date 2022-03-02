@@ -21,7 +21,8 @@ namespace CatsAndDogs
         public Form1()
         {
             InitializeComponent();
-            //connectionString = ConfigurationManager.ConnectionStrings["CatsAndDogsDB.Properties.Settings.PetsConnectionString"].ConnectionString;
+            
+            connectionString = ConfigurationManager.ConnectionStrings["CatsAndDogsDB.Properties.Settings.PetsConnectionString"].ConnectionString;
 
         }
 
